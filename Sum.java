@@ -13,5 +13,7 @@ public class Sum
     int sum= num1+num2;
     System.out.println("sum="+sum);
 
+    System.out.println("version 2");
+
     }
 }
